@@ -1,0 +1,64 @@
+.form1 {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 15px;
+    background-color: #f9f9f9;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+    font-family: "Segoe UI", sans-serif;
+}
+
+form p {
+    margin: 10px 0 5px;
+    color: #333;
+    font-weight: 300;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+textarea {
+    resize: vertical;
+    min-height: 80px;
+}
+
+button {
+    padding: 12px 20px;
+    margin-right: 10px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+button:first-of-type {
+    background-color:rgba(56, 109, 153, 0.55);
+    color: #333;
+}
+
+button:last-of-type {
+    background-color: rgb(88, 149, 167);
+    color: white;
+}
+
+button:hover:last-of-type {
+    
+    background-color: #4caf50;
+    
+}
+button:hover:first-of-type {
+    background-color: rgb(236, 82, 82);
+    
+}
+input{
+    margin-bottom: 2px;
+}
