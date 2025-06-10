@@ -1,2 +1,2 @@
-It helps to traj your finances with ease
+It helps to track your finances with ease
 # Finance_Tracker
